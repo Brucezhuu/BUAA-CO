@@ -1,0 +1,344 @@
+The number of lines are different!!!Different in line 340
+output of file_1 is "@0000355c: $ 5 <= 3582638a"
+output of file_2 is "@0000355c: $ 5 <= 00000000"
+
+Different in line 342
+output of file_1 is "@00003568: $ 2 <= 3582638b"
+output of file_2 is "@00003568: $ 2 <= 00000001"
+
+Different in line 353
+output of file_1 is "@00003580: $ 5 <= 00000001"
+output of file_2 is "@00003580: $ 5 <= 00000000"
+
+Different in line 355
+output of file_1 is "@00003588: $ 1 <= 00000001"
+output of file_2 is "@00003588: $ 1 <= 00000000"
+
+Different in line 356
+output of file_1 is "@0000358c: $ 2 <= 00000000"
+output of file_2 is "@0000358c: $ 2 <= ffffffff"
+
+Different in line 358
+output of file_1 is "@00003594: $ 2 <= 00000001"
+output of file_2 is "@00003594: $ 2 <= 00000000"
+
+Different in line 359
+output of file_1 is "@00003598: $ 1 <= ffffffff"
+output of file_2 is "@00003598: $ 1 <= 00000000"
+
+Different in line 361
+output of file_1 is "@000035a0: $ 5 <= ffffffff"
+output of file_2 is "@000035a0: $ 5 <= 00000000"
+
+Different in line 366
+output of file_1 is "@000035ac: $ 1 <= fffffffe"
+output of file_2 is "@000035ac: $ 1 <= 00000000"
+
+Different in line 369
+output of file_1 is "@000035b8: $ 3 <= 00003e59"
+output of file_2 is "@000035b8: $ 3 <= 00003e5a"
+
+Different in line 370
+output of file_1 is "@000035bc: $ 2 <= 00000000"
+output of file_2 is "@000035bc: $ 2 <= 00000001"
+
+Different in line 371
+output of file_1 is "@000035c0: $ 5 <= fffffffe"
+output of file_2 is "@000035c0: $ 5 <= 00000000"
+
+Different in line 378
+output of file_1 is "@000035d0: $ 5 <= 00000000"
+output of file_2 is "@000035d0: $ 5 <= 00000001"
+
+Different in line 379
+output of file_1 is "@000035d8: $ 2 <= ffffffff"
+output of file_2 is "@000035d8: $ 2 <= fffffffe"
+
+Different in line 380
+output of file_1 is "@000035e0: $ 3 <= 00001626"
+output of file_2 is "@000035e0: $ 3 <= 00001628"
+
+Different in line 381
+output of file_1 is "@000035e4: $ 2 <= 00000001"
+output of file_2 is "@000035e4: $ 2 <= fffffffe"
+
+Different in line 382
+output of file_1 is "@000035e8: $ 5 <= fffffffe"
+output of file_2 is "@000035e8: $ 5 <= 00000000"
+
+Different in line 383
+output of file_1 is "@000035ec: $ 1 <= fffffffe"
+output of file_2 is "@000035ec: $ 1 <= 00000000"
+
+Different in line 392
+output of file_1 is "@00003608: *00000024 <= 00010000"
+output of file_2 is "@00003608: *00000024 <= 00fe0000"
+
+Different in line 394
+output of file_1 is "@0000360c: $ 2 <= 00001626"
+output of file_2 is "@0000360c: $ 2 <= 00001628"
+
+Different in line 395
+output of file_1 is "@00003610: $ 2 <= 00000001"
+output of file_2 is "@00003610: $ 2 <= 00000000"
+
+Different in line 397
+output of file_1 is "@00003620: $ 2 <= 00001625"
+output of file_2 is "@00003620: $ 2 <= 00001628"
+
+Different in line 402
+output of file_1 is "@0000363c: $ 1 <= 00002c4c"
+output of file_2 is "@0000363c: $ 1 <= 00002c50"
+
+Different in line 403
+output of file_1 is "@00003640: $ 4 <= 0000a11c"
+output of file_2 is "@00003640: $ 4 <= 0000a120"
+
+Different in line 408
+output of file_1 is "@00003660: $ 3 <= 00001625"
+output of file_2 is "@00003660: $ 3 <= 00001627"
+
+Different in line 409
+output of file_1 is "@00003674: $ 5 <= 00003fdc"
+output of file_2 is "@00003674: $ 5 <= 00003fde"
+
+Different in line 425
+output of file_1 is "@000036b0: $ 3 <= fb800000"
+output of file_2 is "@000036b0: $ 3 <= fbc00000"
+
+Different in line 426
+output of file_1 is "@000036b8: $ 1 <= 00003fdc"
+output of file_2 is "@000036b8: $ 1 <= 00003fde"
+
+Different in line 428
+output of file_1 is "@000036c4: $ 2 <= 04800000"
+output of file_2 is "@000036c4: $ 2 <= 04400000"
+
+Different in line 430
+output of file_1 is "@000036d4: $ 2 <= 04800000"
+output of file_2 is "@000036d4: $ 2 <= 04400000"
+
+Different in line 431
+output of file_1 is "@000036d8: $ 1 <= 04802fde"
+output of file_2 is "@000036d8: $ 1 <= 04402fde"
+
+Different in line 432
+output of file_1 is "@000036dc: $ 3 <= 00003fdc"
+output of file_2 is "@000036dc: $ 3 <= 00003fde"
+
+Different in line 435
+output of file_1 is "@000036e8: $ 5 <= 0480214e"
+output of file_2 is "@000036e8: $ 5 <= 0440214e"
+
+Different in line 436
+output of file_1 is "@00003708: $ 1 <= ffffffff"
+output of file_2 is "@00003708: $ 1 <= 00000000"
+
+Different in line 437
+output of file_1 is "@0000370c: $ 1 <= 00007fb8"
+output of file_2 is "@0000370c: $ 1 <= 00007fbc"
+
+Different in line 438
+output of file_1 is "@00003710: $ 5 <= 0480a106"
+output of file_2 is "@00003710: $ 5 <= 0440a10a"
+
+Different in line 439
+output of file_1 is "@00003714: $ 1 <= 048120be"
+output of file_2 is "@00003714: $ 1 <= 044120c6"
+
+Different in line 440
+output of file_1 is "@00003718: $ 5 <= 048120be"
+output of file_2 is "@00003718: $ 5 <= 044120c6"
+
+Different in line 441
+output of file_1 is "@0000371c: $ 4 <= 04803fdc"
+output of file_2 is "@0000371c: $ 4 <= 04403fde"
+
+Different in line 448
+output of file_1 is "@0000372c: $ 3 <= 04805ecd"
+output of file_2 is "@0000372c: $ 3 <= 04405ecf"
+
+Different in line 451
+output of file_1 is "@00003738: $ 2 <= 090120be"
+output of file_2 is "@00003738: $ 2 <= 088120c6"
+
+Different in line 453
+output of file_1 is "@00003740: $ 3 <= 00000000"
+output of file_2 is "@00003740: $ 3 <= 001100ff"
+
+Different in line 454
+output of file_1 is "@00003744: $ 2 <= 048120be"
+output of file_2 is "@00003744: $ 2 <= 00000000"
+
+Different in line 455
+output of file_1 is "@00003748: $ 4 <= 0901609a"
+output of file_2 is "@00003748: $ 4 <= 088160a4"
+
+Different in line 456
+output of file_1 is "@0000374c: $ 5 <= f27e9f41"
+output of file_2 is "@0000374c: $ 5 <= f77e9f5b"
+
+Different in line 457
+output of file_1 is "@00003750: $ 1 <= 0901609a"
+output of file_2 is "@00003750: $ 1 <= 088160a4"
+
+Different in line 458
+output of file_1 is "@00003754: $ 2 <= 0d828158"
+output of file_2 is "@00003754: $ 2 <= 088160a4"
+
+Different in line 459
+output of file_1 is "@00003758: $ 5 <= 0901b7f0"
+output of file_2 is "@00003758: $ 5 <= 0881b7fa"
+
+Different in line 460
+output of file_1 is "@0000375c: $ 5 <= f27d7ea8"
+output of file_2 is "@0000375c: $ 5 <= f78fa05b"
+
+Different in line 461
+output of file_1 is "@00003764: $ 4 <= 09016df8"
+output of file_2 is "@00003764: $ 4 <= 08816e02"
+
+Different in line 462
+output of file_1 is "@00003768: $ 1 <= 1202dbf0"
+output of file_2 is "@00003768: $ 1 <= 1102dc04"
+
+Different in line 463
+output of file_1 is "@00003770: *00000020 <= 00000000"
+output of file_2 is "@00003770: *00000020 <= 0000ff00"
+
+Different in line 467
+output of file_1 is "@00003780: $ 1 <= edfd949b"
+output of file_2 is "@00003780: $ 1 <= eefd9487"
+
+Different in line 480
+output of file_1 is "@0000379c: $ 4 <= ffffffff"
+output of file_2 is "@0000379c: $ 4 <= 00000000"
+
+Different in line 482
+output of file_1 is "@000037ac: $ 4 <= 00000001"
+output of file_2 is "@000037ac: $ 4 <= 000000fe"
+
+Different in line 483
+output of file_1 is "@000037b0: $ 2 <= 00000001"
+output of file_2 is "@000037b0: $ 2 <= 000000fe"
+
+Different in line 484
+output of file_1 is "@000037b4: $ 5 <= 00000001"
+output of file_2 is "@000037b4: $ 5 <= 000000fe"
+
+Different in line 486
+output of file_1 is "@000037c0: *0000002c <= 00007301"
+output of file_2 is "@000037c0: *0000002c <= 000073fe"
+
+Different in line 487
+output of file_1 is "@000037c4: $ 2 <= 00000339"
+output of file_2 is "@000037c4: $ 2 <= 000003fe"
+
+Different in line 488
+output of file_1 is "@000037c8: $ 4 <= 00000339"
+output of file_2 is "@000037c8: $ 4 <= 000003fe"
+
+Different in line 489
+output of file_1 is "@000037cc: $ 2 <= 00000339"
+output of file_2 is "@000037cc: $ 2 <= 000003fe"
+
+Different in line 490
+output of file_1 is "@000037d4: *0000001c <= 00003900"
+output of file_2 is "@000037d4: *0000001c <= 0000fe00"
+
+Different in line 491
+output of file_1 is "@000037d0: $ 3 <= 00000001"
+output of file_2 is "@000037d0: $ 3 <= 000000fe"
+
+Different in line 496
+output of file_1 is "@000037e8: $ 1 <= 00000001"
+output of file_2 is "@000037e8: $ 1 <= 000000fe"
+
+Different in line 497
+output of file_1 is "@000037ec: $ 5 <= 00000002"
+output of file_2 is "@000037ec: $ 5 <= 80000000"
+
+Different in line 500
+output of file_1 is "@000037fc: *00000024 <= 00018300"
+output of file_2 is "@000037fc: *00000024 <= 00fe8300"
+
+Different in line 501
+output of file_1 is "@000037f8: $ 3 <= 00003e16"
+output of file_2 is "@000037f8: $ 3 <= 00003ee9"
+
+Different in line 502
+output of file_1 is "@00003800: $ 1 <= 0000a599"
+output of file_2 is "@00003800: $ 1 <= 0000a66c"
+
+Different in line 503
+output of file_1 is "@00003808: $ 4 <= 0000c21a"
+output of file_2 is "@00003808: $ 4 <= 0000c1ef"
+
+Different in line 504
+output of file_1 is "@0000380c: $ 3 <= 00003e16"
+output of file_2 is "@0000380c: $ 3 <= 00003ee9"
+
+Different in line 634
+output of file_1 is "@00003a1c: *00000020 <= 00000000"
+output of file_2 is "@00003a1c: *00000020 <= 0000ff00"
+
+Different in line 713
+output of file_1 is "@00003b40: *00000024 <= 00010000"
+output of file_2 is "@00003b40: *00000024 <= 00fe0000"
+
+Different in line 745
+output of file_1 is "@00003bb4: $ 4 <= 00000001"
+output of file_2 is "@00003bb4: $ 4 <= 000000fe"
+
+Different in line 746
+output of file_1 is "@00003bb8: $ 4 <= 0000207e"
+output of file_2 is "@00003bb8: $ 4 <= 0000217b"
+
+Different in line 751
+output of file_1 is "@00003bd4: $ 1 <= 000053df"
+output of file_2 is "@00003bd4: $ 1 <= 000052da"
+
+Different in line 752
+output of file_1 is "@00003bd8: $ 5 <= 0000baa1"
+output of file_2 is "@00003bd8: $ 5 <= 0000b99c"
+
+Different in line 753
+output of file_1 is "@00003bdc: $ 2 <= 0000e6dc"
+output of file_2 is "@00003bdc: $ 2 <= 0000e5d7"
+
+Different in line 756
+output of file_1 is "@00003bf8: $ 1 <= 0000baa1"
+output of file_2 is "@00003bf8: $ 1 <= 0000b99c"
+
+Different in line 757
+output of file_1 is "@00003c00: $ 4 <= 00010618"
+output of file_2 is "@00003c00: $ 4 <= 00010513"
+
+Different in line 760
+output of file_1 is "@00003c0c: $ 4 <= ffff455f"
+output of file_2 is "@00003c0c: $ 4 <= ffff4664"
+
+Different in line 761
+output of file_1 is "@00003c10: $ 5 <= ffff1bfb"
+output of file_2 is "@00003c10: $ 5 <= ffff1d00"
+
+Different in line 762
+output of file_1 is "@00003c14: $ 4 <= ffffacac"
+output of file_2 is "@00003c14: $ 4 <= ffffadb1"
+
+Different in line 764
+output of file_1 is "@00003c20: $ 2 <= 00004938"
+output of file_2 is "@00003c20: $ 2 <= 00004a3d"
+
+Different in line 767
+output of file_1 is "@00003c30: $ 2 <= ffff1bfb"
+output of file_2 is "@00003c30: $ 2 <= ffff1d00"
+
+Different in line 769
+output of file_1 is "@00003c38: $ 4 <= ffff260e"
+output of file_2 is "@00003c38: $ 4 <= ffff2713"
+
+Different in line 858
+output of file_1 is "@00003db0: *0000002c <= 00567301"
+output of file_2 is "@00003db0: *0000002c <= 005673fe"
+

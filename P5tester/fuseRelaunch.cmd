@@ -1,0 +1,1 @@
+-nodebug -prj "D:\p6_new\P6_new\mips_stx_beh.prj" -o "testX.exe" "mips_tb" 

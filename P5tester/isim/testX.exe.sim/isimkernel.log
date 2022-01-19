@@ -1,0 +1,28 @@
+Command line:
+   testX.exe
+     -simmode  tcl
+     -simrunnum  0
+     -socket  53953
+
+Mon Dec 20 13:59:31 2021
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5134.47 Meg
+
+ Total Signals          : 282
+ Total Nets             : 1388
+ Total Signal Drivers   : 183
+ Total Blocks           : 13
+ Total Primitive Blocks : 7
+ Total Processes        : 114
+ Total Traceable Variables  : 34
+ Total Scalar Nets and Variables : 232373
+
+ Total Simulation Time: 0.109375 sec
+
+ Current Memory Usage: 5134.47 Meg
+
+Mon Dec 20 13:59:32 2021
+

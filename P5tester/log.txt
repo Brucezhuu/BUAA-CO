@@ -1,0 +1,18 @@
+Running: D:\COverilog\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -nodebug -prj D:\p6_new\P6_new\mips_stx_beh.prj -o testX.exe mips_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/p6_new/P6_new/StallandT.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/NPC.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/IFU.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/GRF.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/DM.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/DecodeUnit.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/ALU.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/MEM_WB.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/IF_ID.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/ID_EX.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/EX_MEM.v" into library isim_temp
+Analyzing Verilog file "D:/p6_new/P6_new/mips.v" into library isim_temp
+Analyzing Verilog file "D:/COverilog/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library isim_temp
